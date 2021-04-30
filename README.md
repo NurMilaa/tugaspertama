@@ -1,2 +1,2 @@
-# tugaspertama
-publish Ci
+# tutorial-github
+repo belajar github
